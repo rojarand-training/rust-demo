@@ -7,7 +7,7 @@ fn main() {
     println!("mutable_variable={}, immutable_variable={}", mutable_variable, immutable_variable);
     //immutable_variable = 6;
 
-    //Note!!! char is 4 butes in size
+    //Note!!! char is 4 bytes in size
     let x: char = '😻';
     println!("Char x={}!", x);
 }
